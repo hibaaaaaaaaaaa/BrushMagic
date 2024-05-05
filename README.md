@@ -1,15 +1,15 @@
 
-# MagicBrush: Image Filters Application
+# BrushMagic: Image Filters Application
 
-MagicBrush is a Python application developed using **OpenCV** and **PySide6** that provides a variety of image filters for users to enhance their images.
+BrushMagic is a Python application developed using **OpenCV** and **PySide6** that provides a variety of image filters for users to enhance their images.
 
 
 ## Overview
-MagicBrush is designed to make image editing  easy. With a range of filters available, users can transform their images with just a few clicks. Whether they want to add a vintage look with black and white filters, create artistic effects with light leaks, or pixelate images for a unique style.
+BrushMagic is designed to make image editing  easy. With a range of filters available, users can transform their images with just a few clicks. Whether they want to add a vintage look with black and white filters, create artistic effects with light leaks, or pixelate images for a unique style.
 
 
 ## Features
-- **Filters Variety** : MagicBrush offers a range of filters.
+- **Filters Variety** : BrushMagic offers a range of filters.
 - **Interactive Interface**: Three interfaces provide a seamless user experience.
 
     - Welcome Page: Start your creative journey with MagicBrush.
@@ -19,7 +19,7 @@ MagicBrush is designed to make image editing  easy. With a range of filters avai
 
 
 ## Screenshots
-*Welcome Page* - Start your creative journey with MagicBrush.
+*Welcome Page* - Start your creative journey with BrushMagic.
 ![Welcome](c:\Users\DELL\Desktop\MagicBrush\Screenshot 2024-04-30 084015.png)
 
 
@@ -36,7 +36,7 @@ MagicBrush is designed to make image editing  easy. With a range of filters avai
 
 
 ## Filters
-The `Filters.py` file contains the implementation of various filters provided in **MagicBrush**. Here's a brief overview of each filter:
+The `Filters.py` file contains the implementation of various filters provided in **BrushMagic**. Here's a brief overview of each filter:
 
 - **Classic Monochrome** : This filter converts the image to grayscale and allows you to adjust the degree of intensity.
 - **Rainbow Radiance Filter** : Rainbow Radiance Filter intensifies colors in the image by applying a power factor to each color channel.
@@ -57,7 +57,7 @@ The `Filters.py` file contains the implementation of various filters provided in
 
 
 ## AI Filters (In Development)
-The MagicBrush application is expanding its capabilities to include **AI-powered filters** that enhance and transform images using advanced algorithms. Currently, this section is under active development, and I am working on creating these AI models from scratch to provide unique and innovative filters.
+The BrushMagic application is expanding its capabilities to include **AI-powered filters** that enhance and transform images using advanced algorithms. Currently, this section is under active development, and I am working on creating these AI models from scratch to provide unique and innovative filters.
 
 ## Authors
 
