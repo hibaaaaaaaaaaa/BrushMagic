@@ -20,19 +20,30 @@ BrushMagic is designed to make image editing  easy. With a range of filters avai
 
 ## Screenshots
 *Welcome Page* - Start your creative journey with BrushMagic.
-![Welcome](c:\Users\DELL\Desktop\MagicBrush\Screenshot 2024-04-30 084015.png)
+
+
+![Welcome](https://github.com/hibaaaaaaaaaaa/BrushMagic/assets/161361175/f4d1d65d-90a1-42f6-a7bb-dba8c4268969)
+
 
 
 *Main Page* - Explore and select from a variety of filters.
-![Main](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
-![Mini](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+![Main](https://github.com/hibaaaaaaaaaaa/BrushMagic/assets/161361175/d69aa637-4fa6-4475-84b4-069f5cf2ee23)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Screenshot 2024-04-30 090006](https://github.com/hibaaaaaaaaaaa/BrushMagic/assets/161361175/b20e64b1-a4ca-4d11-8331-05020320c9a0)
 
 
 
 *Application Page* - Apply filters with customizable intensity and save options.
-![App](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+*Example of Applying the **Vintage Filter***
+
+| Natural                                                                                              | Filter                                                                                                  |
+|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| ![Main](https://github.com/hibaaaaaaaaaaa/BrushMagic/assets/161361175/99a31e33-392a-4fb8-a34d-f880e61a1768) | ![Mini](https://github.com/hibaaaaaaaaaaa/BrushMagic/assets/161361175/6d3a6d90-5c66-44b6-956c-e1ee063af778) |
+
 
 
 ## Filters
